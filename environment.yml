@@ -1,0 +1,16 @@
+name: wat-snrna
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=2.4.6
+  - pandas=2.3.3
+  - scipy=1.17.1
+  - matplotlib=3.11.2
+  - anndata=0.12.19
+  - scanpy=1.11.5
+  - h5py=3.16.0
+  - statsmodels=0.15.0
+  - jupytext=1.19.6
+  - nbconvert=7.17.1
+  - ipykernel=7.4.0
